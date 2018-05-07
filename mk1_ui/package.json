@@ -1,7 +1,6 @@
 {
-    "name": "money-keeper1",
+    "name": "money-keeper",
     "version": "0.0.0",
-    "license": "MIT",
     "scripts": {
         "ng": "ng",
         "start": "ng serve",

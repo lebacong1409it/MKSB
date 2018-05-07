@@ -75,7 +75,7 @@
 				<artifactId>frontend-maven-plugin</artifactId>
 				<version>1.6</version>
 				<configuration>
-					<workingDirectory>mk_ui</workingDirectory>
+					<workingDirectory>mk1_ui</workingDirectory>
 					<installDirectory>temp</installDirectory>
 				</configuration>
 				<executions>
@@ -131,7 +131,7 @@
 							<outputDirectory>${basedir}/target/classes/static</outputDirectory>
 							<resources>
 								<resource>
-									<directory>mk_ui/dist</directory>
+									<directory>mk1_ui/dist</directory>
 									<filtering>true</filtering>
 								</resource>
 							</resources>
